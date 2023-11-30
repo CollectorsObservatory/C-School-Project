@@ -8,12 +8,12 @@
 #include <iostream>
 #include <sstream>
 #include <string>
-#include "../CppStaticLibrary_1/Annuaire.h"
-#include "../CppStaticLibrary_1/Personne.h"
-#include "../CppStaticLibrary_1/Entraineur.h"
-#include "../CppStaticLibrary_1/validationFormat.h"
-#include "../CppStaticLibrary_1/Joueur.h"
-#include "../CppStaticLibrary_1/Date.h"
+#include "Annuaire.h"
+#include "Personne.h"
+#include "Entraineur.h"
+#include "validationFormat.h"
+#include "Joueur.h"
+#include "Date.h"
 
 using namespace std;
 using namespace hockey;
